@@ -1,0 +1,26 @@
+Case_Reported_Date,Age_Group,Client_Gender,Reporting_PHU_ID,Reporting_PHU,Reporting_PHU_City,Reporting_PHU_Postal_Code,Reporting_PHU_Website,Reporting_PHU_Latitude,Reporting_PHU_Longitude
+2021-05-19,40s,MALE,2241,Kingston Frontenac and Lennox & Addington Public Health,Kingston,K7M 1V5,www.kflaph.ca,44.2,-76.5
+2021-05-19,40s,MALE,2265,Region of Waterloo Public Health,Waterloo,N2J 4V3,www.regionofwaterloo.ca,43.5,-80.5
+2021-05-19,40s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-19,50s,FEMALE,2236,Halton Region Health Department,Oakville,L6M 3Ll,www.halton.ca/For-Residents/Public-Health/,43.4,-79.7
+2021-05-19,50s,FEMALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2021-05-19,50s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-19,50s,MALE,2236,Halton Region Health Department,Oakville,L6M 3Ll,www.halton.ca/For-Residents/Public-Health/,43.4,-79.7
+2021-05-19,50s,MALE,2244,Middlesex-London Health Unit,London,N6A 5L7,www.healthunit.com,43,-81.3
+2021-05-19,50s,MALE,2244,Middlesex-London Health Unit,London,N6A 5L7,www.healthunit.com,43,-81.3
+2021-05-19,50s,MALE,2268,Windsor-Essex County Health Unit,Windsor,N9A 4J8,www.wechu.org,42.3,-83
+2021-05-19,60s,FEMALE,2244,Middlesex-London Health Unit,London,N6A 5L7,www.healthunit.com,43,-81.3
+2021-05-19,60s,MALE,4913,Southwestern Public Health,St. Thomas,N5P 1G9,www.swpublichealth.ca,42.8,-81.2
+2021-05-19,70s,FEMALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2021-05-19,70s,MALE,4913,Southwestern Public Health,St. Thomas,N5P 1G9,www.swpublichealth.ca,42.8,-81.2
+2021-05-19,<20,FEMALE,2244,Middlesex-London Health Unit,London,N6A 5L7,www.healthunit.com,43,-81.3
+2021-05-19,<20,FEMALE,2265,Region of Waterloo Public Health,Waterloo,N2J 4V3,www.regionofwaterloo.ca,43.5,-80.5
+2021-05-19,<20,FEMALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2021-05-19,<20,GENDER DIVERSE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-19,<20,MALE,2237,Hamilton Public Health Services,Hamilton,L8P 4S6,www.hamilton.ca/publichealth,43.3,-79.9
+2021-05-19,<20,MALE,2268,Windsor-Essex County Health Unit,Windsor,N9A 4J8,www.wechu.org,42.3,-83
+2021-05-19,20s,MALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2021-05-19,<20,FEMALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2021-05-19,<20,MALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2021-05-19,30s,UNSPECIFIED,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-19,60s,FEMALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7

@@ -1,0 +1,51 @@
+Case_Reported_Date,Age_Group,Client_Gender,Reporting_PHU_ID,Reporting_PHU,Reporting_PHU_City,Reporting_PHU_Postal_Code,Reporting_PHU_Website,Reporting_PHU_Latitude,Reporting_PHU_Longitude
+2021-05-19,40s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-20,50s,FEMALE,2236,Halton Region Health Department,Oakville,L6M 3Ll,www.halton.ca/For-Residents/Public-Health/,43.4,-79.7
+2021-05-19,50s,FEMALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2021-05-19,50s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-20,<20,MALE,2268,Windsor-Essex County Health Unit,Windsor,N9A 4J8,www.wechu.org,42.3,-83
+2021-05-19,20s,MALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2021-05-20,<20,FEMALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2021-05-19,<20,MALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2021-05-20,30s,UNSPECIFIED,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2021-05-19,60s,FEMALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2020-04-22,60s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-21,70s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-22,70s,MALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2020-04-23,70s,MALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2020-04-22,80s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-22,80s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-23,80s,GENDER DIVERSE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-22,80s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-21,80s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-24,90+,FEMALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2020-04-21,90+,FEMALE,2265,Region of Waterloo Public Health,Waterloo,N2J 4V3,www.regionofwaterloo.ca,43.5,-80.5
+2020-04-26,90+,FEMALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2020-04-21,90+,MALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2020-04-23,90+,UNSPECIFIED,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-24,<20,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-25,<20,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-22,20s,FEMALE,2227,Brant County Health Unit,Brantford,N3R 1G7,www.bchu.org/,43.2,-80.3
+2020-04-23,30s,FEMALE,2251,Ottawa Public Health,Ottawa,K2G 6J8,www.ottawapublichealth.ca,45.3,-75.8
+2020-04-22,30s,FEMALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2020-04-22,30s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-24,40s,FEMALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2020-04-22,40s,FEMALE,2230,Durham Region Health Department,Whitby,L1N 0B2,www.durham.ca/en/health-and-wellness/health-and-wellness.aspx,43.9,-78.9
+2020-04-25,40s,FEMALE,2230,Durham Region Health Department,Whitby,L1N 0B2,www.durham.ca/en/health-and-wellness/health-and-wellness.aspx,43.9,-78.9
+2020-04-26,40s,UNSPECIFIED,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-26,50s,FEMALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2020-04-23,50s,FEMALE,2270,York Region Public Health Services,Newmarket,L3Y 6Z1,www.york.ca/wps/portal/yorkhome/health/,44,-79.5
+2020-04-23,50s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-25,50s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-24,50s,FEMALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-25,50s,MALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2020-04-23,50s,MALE,3895,Toronto Public Health,Toronto,M5B 1W2,www.toronto.ca/community-people/health-wellness-care/,43.7,-79.4
+2020-04-23,80s,MALE,2230,Durham Region Health Department,Whitby,L1N 0B2,www.durham.ca/en/health-and-wellness/health-and-wellness.aspx,43.9,-78.9
+2020-04-25,80s,UNSPECIFIED,2230,Durham Region Health Department,Whitby,L1N 0B2,www.durham.ca/en/health-and-wellness/health-and-wellness.aspx,43.9,-78.9
+2020-04-23,80s,MALE,2230,Durham Region Health Department,Whitby,L1N 0B2,www.durham.ca/en/health-and-wellness/health-and-wellness.aspx,43.9,-78.9
+2020-04-24,80s,MALE,2246,Niagara Region Public Health Department,Thorold,L2V 4T7,www.niagararegion.ca/health,43.1,-79.2
+2020-04-25,80s,MALE,2253,Peel Public Health,Mississauga,L5W 1N4,www.peelregion.ca/health/,43.6,-79.7
+2020-04-22,90+,FEMALE,2246,Niagara Region Public Health Department,Thorold,L2V 4T7,www.niagararegion.ca/health,43.1,-79.2
+2020-04-24,90+,FEMALE,2246,Niagara Region Public Health Department,Thorold,L2V 4T7,www.niagararegion.ca/health,43.1,-79.2
+2020-04-24,90+,GENDER DIVERSE,2246,Niagara Region Public Health Department,Thorold,L2V 4T7,www.niagararegion.ca/health,43.1,-79.2
+2020-04-22,90+,FEMALE,2246,Niagara Region Public Health Department,Thorold,L2V 4T7,www.niagararegion.ca/health,43.1,-79.2
